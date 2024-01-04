@@ -1,0 +1,8 @@
+header {
+    font-size: 32px;
+    font: bolder;
+    position: relative;
+    border: 1px solid rgb(0, 128, 255);
+    background-color: rgb(0, 128, 255);
+    height: 150px;
+}
